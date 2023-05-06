@@ -1,0 +1,38 @@
+# Manpower
+
+## Description
+
+Manpower is a responsive React application with login functionality. Once logged in, users can select a user profile to view their posts and delete them. Users can also access the albums section, where they can browse through a list of users and view their albums. The application features an appealing design and provides a pleasant user interaction experience.
+
+## Technologies Used
+
+- React
+- Redux
+- Redux-Toolkit
+- Styled Components
+- Material-UI (Mui)
+- react-router-dom
+
+## Installation
+
+To set up the project locally, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/titobon/manpower.git`
+2. Navigate to the project directory: `cd manpower`
+3. Install the dependencies: `npm install`
+
+## Usage
+
+To use the application, follow these steps:
+
+1. Launch the application: `npm start`
+2. Open the application in your web browser.
+3. On the login page, enter a valid email and password.
+4. Once logged in, select a user profile to open the corresponding tab.
+5. In the "Posts" tab, you can view and delete posts associated with the selected user.
+6. In the "Albums" tab, you can browse through a list of users and view their albums.
+
+## License
+
+This project is licensed under the MIT License. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software. 
+
